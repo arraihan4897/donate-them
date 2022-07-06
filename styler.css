@@ -1,0 +1,164 @@
+.first-topic {
+
+    padding: 15%;
+    text-align: center;
+    color: antiquewhite;
+    text-shadow: 1px;
+
+}
+
+.first-view {
+    background-repeat: no-repeat;
+
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+
+}
+
+.donate-button {
+    color: antiquewhite;
+    background-color: tomato;
+    border-radius: 5px;
+    text-decoration: aliceblue;
+    padding: 10px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#second-part {
+    text-align: center;
+    color: black;
+
+}
+
+
+
+.taka {
+
+    margin-left: 345px;
+    margin-right: 345px;
+    font-weight: 1200;
+    display: flex;
+    width: 10%;
+    border: 20px;
+
+}
+
+h2 {
+
+    text-align: center;
+    border: 40px;
+    padding: 25%;
+}
+
+#selected-one {
+    background-color: rgb(252, 212, 212);
+    border: 2px solid red;
+    border-radius: 5px;
+
+}
+
+#light-view {
+    font-weight: 100;
+    color: rgb(146, 144, 144);
+
+
+}
+
+hr {
+    width: 60%;
+}
+
+#donate-plan {
+    text-align: center;
+}
+
+#container {
+    text padding: 20px;
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+#food {
+    margin-left: 20px;
+    border-radius: 5px;
+    padding-left: 10px;
+    text-align: left;
+    background-color: rgb(205, 250, 250);
+}
+
+#shelter {
+    margin-left: 20px;
+    border-radius: 5px;
+    padding-left: 10px;
+    text-align: left;
+    background-color: bisque;
+}
+
+#e-child {
+    margin-left: 20px;
+    border-radius: 5px;
+    padding-left: 10px;
+    text-align: left;
+    background-color: rgb(245, 165, 127);
+}
+
+#lives-donation {
+    margin-bottom: 30px;
+}
+
+#depend-donation {
+    margin-left: 160px;
+}
+
+#they-need {
+
+    margin-top: 150px;
+    margin-left: 160px;
+    display: flex;
+}
+
+#survive-con {
+    margin-left: 50px;
+}
+
+#updates {
+    text-align: center;
+}
+
+#gj {
+    height: 10px;
+    width: 100px;
+    background-color: blue;
+}
+
+footer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 200px;
+    color: brown;
+    text-align: center;
+    background-color: black;
+}
+
+form {
+    text-align: center;
+    width: 50%;
+
+    background-color: rgb(245, 187, 111);
+}
+
+input {
+    background-color: rgb(255, 80, 16);
+}
+
+#last-box {
+    align-items: center;
+    display: flex;
+}
