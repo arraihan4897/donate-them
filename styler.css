@@ -39,7 +39,7 @@ h1 {
 
 
 
-.taka {
+#taka{
 
     margin-left: 345px;
     margin-right: 345px;
@@ -87,6 +87,7 @@ hr {
 }
 
 #food {
+    padding-top: 15px;
     margin-left: 20px;
     border-radius: 5px;
     padding-left: 10px;
@@ -95,6 +96,7 @@ hr {
 }
 
 #shelter {
+    padding-top: 15px;
     margin-left: 20px;
     border-radius: 5px;
     padding-left: 10px;
@@ -103,6 +105,7 @@ hr {
 }
 
 #e-child {
+    padding-top: 15px;
     margin-left: 20px;
     border-radius: 5px;
     padding-left: 10px;
@@ -133,11 +136,7 @@ hr {
     text-align: center;
 }
 
-#gj {
-    height: 10px;
-    width: 100px;
-    background-color: blue;
-}
+
 
 footer {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -148,17 +147,23 @@ footer {
 }
 
 form {
-    text-align: center;
-    width: 50%;
+    
+    width: 100px;
 
+   text-align: center;
     background-color: rgb(245, 187, 111);
 }
 
-input {
-    background-color: rgb(255, 80, 16);
-}
 
 #last-box {
+    margin: 50px 600px ;
+    
+   
     align-items: center;
     display: flex;
+}
+#subs{
+    width: 120px;
+ 
+    background-color: rgb(250, 121, 62);
 }
